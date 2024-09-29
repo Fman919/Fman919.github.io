@@ -12,7 +12,7 @@ Kenyan Moore kenyanplays@gmail.com
 ## My Interests
 * i like to watch animals just to see what they doing
 
-* i like to try to understand other peoples thinking or how they would get to a soulution in their head 
+* i like to try to understand other peoples thinking or how they would get to a soulution
 
 * i love to sleep  
 
