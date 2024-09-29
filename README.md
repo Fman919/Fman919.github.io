@@ -8,6 +8,6 @@ Kenyan Moore kenyanplays@gmail.com
 reading walking listening to music 
 ## Websites I Recommend
 [Artist I listen to](https://www.youtube.com/@TylerTheCreator) - for whatever mood im in he has a song for it 
-[virtual Machines](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine) - i love the idead of haveing a test computer inside my computer i find that facinating
+[virtual Machines](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine) - i love the idea of having a test computer inside my computer i find that facinating
 
 
