@@ -10,11 +10,11 @@ Kenyan Moore kenyanplays@gmail.com
 
 > I am almost always listening to music when i have down time or when im doing a task my top three genere are hip-hop rap and jazz 
 ## My Interests
->i like to watch animals just to see what they doing
+i like to watch animals just to see what they doing
 
->i like to try to understand other peoples thinking or how they would get to a soulution in their head 
+i like to try to understand other peoples thinking or how they would get to a soulution in their head 
 
->i love to sleep  
+i love to sleep  
 
 ## Websites I Recommend
 [Artist I listen to](https://www.youtube.com/@TylerTheCreator) - for whatever mood im in he has a song for it 
