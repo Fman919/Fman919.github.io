@@ -5,6 +5,9 @@ Kenyan Moore kenyanplays@gmail.com
 4.	log into the desktop version of GitHub click on the + clone repository and add to file i created earlier 
 # About Me
 ## My Interests
-
+reading walking listening to music 
 ## Websites I Recommend
+[Artist I listen to](https://www.youtube.com/@TylerTheCreator) - for whatever mood im in he has a song for it 
+[virtual Machines](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine) - i love the idead of haveing a test computer inside my computer i find that facinating
+
 
