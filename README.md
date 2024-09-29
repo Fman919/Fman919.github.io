@@ -20,23 +20,4 @@ Kenyan Moore kenyanplays@gmail.com
 [Artist I listen to](https://www.youtube.com/@TylerTheCreator) - for whatever mood im in he has a song for it 
 [virtual Machines](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine) - i love the idea of having a test computer inside my computer i find that facinating
 
-flowchart TD
-    A[Writing An Essay] -->|Create Thesis| B(Create more than one rough draft)
-    B --> C{pick one rough draft that conveys your talking point}
-	
- C --> D[Body Paragraphs]
- 
-    C-->E[Talking points]
-	
-    C --> F[Conclusion]
-	
-    E --> G{Revison Stage}
-	
-    G --> H[punctuation]
-	
-    G --> I[spelling]
-	
-    G --> J[Tone/Mood]
-	
-     I --> j{Final Product}
 
